@@ -1,4 +1,4 @@
-MrAzadT
+Azad Tamal
 React Project
 # Getting Started with Create React App
 
